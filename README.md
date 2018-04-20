@@ -1,2 +1,3 @@
-# powershell-scripts
-A compilation of useful powershell scripts
+# Powershell Script Compilation
+
+A compilation of useful powershell scripts.
